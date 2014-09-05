@@ -1,0 +1,11 @@
+{
+    "name": "chat",
+    "version": "0.0.1",
+    "dependencies" : {
+        "express" : "~4.8",
+        "express-session" : "~1.0",
+        "ent" : "~2.0.0"
+    },
+    "author" : "amjados <nouira.amjed@gmail.com",
+    "description" : "Chat basique"
+}
